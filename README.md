@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on HackerJobs.com.
-- 🌱 I’m currently learning how to be a builder leader and automate to scale projects.
+- 🌱 I’m currently learning how to be a automate to scale projects and be a better leader. 
 - 🤔 I’m looking for help with developing mobile applications.
 - 😄 Pronouns: Felix
 - ⚡ Fun fact: I am Dominican.
