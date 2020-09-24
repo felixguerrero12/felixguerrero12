@@ -10,5 +10,5 @@ Reach out via e-mail: FelixGuerrero12@gmail.com
 
 Join us on HackerJobs:
 </br>
-<a href="https://discord.gg/VXQyxFB" rel="Discord Invitation">![Discord](https://raw.githubusercontent.com/felixguerrero12/felixguerrero12/master/img/Discord-Logo%2BWordmark-Color.png =250x)</a>
+<a href="https://discord.gg/VXQyxFB" rel="Discord Invitation">![Discord](https://raw.githubusercontent.com/felixguerrero12/felixguerrero12/master/img/Discord-Logo%2BWordmark-Color.png){ width=50% }</a>
 
